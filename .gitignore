@@ -6,3 +6,5 @@ backend/images
 .vscode
 
 .eslintrc.json
+
+backend/test
